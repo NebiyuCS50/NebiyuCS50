@@ -7,6 +7,7 @@ Software Engineer
 I am a 4th year Software Engineer currently working internship Learning from the Odin Project
 
 * 🌍  I'm based in Ethiopia, Addis Ababa
+* 🖥️  See my portfolio at [See my portfolio at](http://#.com)
 * ✉️  You can contact me at [nebiyuelias1992@gmail.com](mailto:nebiyuelias1992@gmail.com)
 * 🚀  I'm currently working on [Mall Rent Management System](http://github.com/NebiyuCS50/MRMS)
 * 🧠  I'm learning React, Node js, Flutter, PostgreSql
