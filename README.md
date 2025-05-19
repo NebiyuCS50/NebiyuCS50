@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-I am a 4th year Software Engineer currently working internship Learning from the Odin Project
+I am a 4th year Software Engineer currently working as intern and learning from the Odin Project
 
 - 🌍  I'm based in Ethiopia, Addis Ababa
 - 🖥️  See my portfolio at [See my portfolio at](http://#.com)
