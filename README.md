@@ -8,7 +8,6 @@ I am a 4th year Software Engineer currently working as intern and learning from 
 - 🖥️  See my portfolio at [See my portfolio at](http://#.com)
 - ✉️  You can contact me at [nebiyuelias1992@gmail.com](mailto:nebiyuelias1992@gmail.com)
 - 🚀  I'm currently working on [Mall Rent Management System](http://github.com/NebiyuCS50/MRMS)
-- 🧠  I'm learning React, Node js, Flutter, PostgreSql
 - 🤝  I'm open to collaborating on Mobile application and Web Development
 - ⚡  Money in my mind
 
